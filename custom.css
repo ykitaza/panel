@@ -1,0 +1,4 @@
+.scrollable {
+    overflow-y: auto;
+    height: 400px; /* この高さは実際のコンテンツに合わせて調整 */
+}
